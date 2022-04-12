@@ -4,7 +4,7 @@ omercapoglu/README.md
 <img align="center" src="https://media4.giphy.com/media/L1c9OhVM5LFg4gnQqT/giphy.gif" width="1000px" height="400px">
 <h1 align="center">Hoop 👋, Ömer Ben </h1>
 <h3 align="center">Hayalleri Gerçek Yapıyoruz </h3>
-<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/j5Qgf8rf2VYnoWH3SY/giphy.gif" >
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/j5Qgf8rf2VYnoWH3SY/giphy.gif" >
 
 
 ![](https://komarev.com/ghpvc/?username=omercapoglu&label=PROFILE+VIEWS)
