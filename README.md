@@ -1,5 +1,4 @@
-omercapoglu/README.md
- 
+
   
 <img align="center" src="https://media4.giphy.com/media/L1c9OhVM5LFg4gnQqT/giphy.gif" width="1000px" height="400px">
 <h1 align="center">Hoop 👋, Ömer Ben </h1>
