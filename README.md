@@ -8,18 +8,18 @@
 
 ![](https://komarev.com/ghpvc/?username=omercapoglu&label=PROFILE+VIEWS)
 
-- 🔭 I'm the Founder of ocmoDigital
+- 🔭 I'm the Founder of CieloSync
 
-- 📫 How to reach me "omercapoglu@ocmodigital.com"
+- 📫 How to reach me "omercapoglu@cielosync.com"
 
 - ⚡ Fun fact "I don't know how to write code :D " 
 
-- 👣 your solution partner "ocmodigital.com" 
+- 👣 your solution partner "cielosync.com" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%B6mer-f-%C3%A7apo%C4%9Flu-a41451113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer" height="30" width="40" /></a>
-<a href="https://www.instagram.com/r1ons/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omercapoglu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
